@@ -357,6 +357,10 @@ article .icon {
 	cursor: default;
 }
 
+.text__description {
+	margin-top: 0.5rem;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
